@@ -3,10 +3,12 @@ body {
 	background-color: #222;
 	color: white;
 	margin: 0;
+	font-family: sans-serif;
 }
 
 h1 {
 	padding-top: 20%;
 	text-align: center;
+	text-transform: uppercase;
 	
 }
